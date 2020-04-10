@@ -1,31 +1,33 @@
 body {
-    background-color:hsl(0, 0%, 80%);
+    background-color:hsl(0, 21%, 71%);
     font-family: sans-serif;
   }
   
   h1 {
     margin: 0;
     font-size: 3rem;
+    font-style: italic;
     text-align: center;
   }
   
   p {
     padding: 10px;
     font-size: 1.5rem;
+    font-style: oblique;
   }
   
-  p#m1 {
+  p#ley1 {
     position: absolute;
     top: 8%;
     left: 10%;
     width: 80%;
     height: 10%;
     border: hsl(40, 40%, 35%) 2px solid;
-    background-color: hsl(40, 100%, 75%);
+    background-color: hsl(40, 96%, 68%);
     text-align: center;
   }
   
-  p#m2 {
+  p#ley2 {
     position: absolute;
     top: 40%;
     left: 32%;
@@ -33,11 +35,11 @@ body {
     height: 30%;
     z-index: 2;
     border: hsl(120, 40%, 35%) 4px solid;
-    background-color: hsl(120, 100%, 75%);
+    background-color: hsl(120, 97%, 65%);
     text-align: center;
   }
   
-  p#m3 {
+  p#ley3 {
     position: absolute;
     top: 25%;
     left: 5%;
@@ -48,36 +50,36 @@ body {
     text-align: left;
   }
   
-  p#m4 {
+  p#ley4 {
     position: absolute;
     top: 25%;
     right: 5%;
     width: 35%;
     height: 25%;
     border: hsl(180, 25%, 70%) 4px solid;
-    background-color: hsl(180, 100%, 90%);
+    background-color: hsl(180, 92%, 74%);
     text-align: right;
   }
   
-  p#m5 {
+  p#ley5 {
     position: absolute;
     bottom: 5%;
     left: 5%;
     width: 35%;
     height: 25%;
     border: hsl(300, 15%, 70%) 4px solid;
-    background-color: hsl(300, 100%, 95%);
+    background-color: hsl(300, 92%, 85%);
     text-align: left;
   }
   
-  p#m6 {
+  p#ley6 {
     position: absolute;
     bottom: 5%;
     right: 5%;
     width: 35%;
     height: 25%;
     border: hsl(0, 15%, 45%) 4px solid;
-    background-color: hsl(0, 100%, 85%);
+    background-color: hsl(0, 100%, 81%);
     text-align: right;
   }
   
